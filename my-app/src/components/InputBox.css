@@ -1,0 +1,41 @@
+#root {
+    align-self: center;
+}
+
+body{
+    width: 100%;
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+    height: 100%
+}
+.label{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    height: 50px;
+    margin-top: 1em;
+}
+.inputBox {
+   
+    height: 400px;
+    width: 90%;
+}
+
+.submit{
+    width: 10em;
+    height: 5em;
+}
+
+.textArea{
+    width: 100%;
+    height: 50%;
+}
+
+.results{
+    margin: auto;
+    list-style: none;
+}
+
